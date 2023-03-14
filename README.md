@@ -1,1 +1,0 @@
-Voici mon nouveau repository créer aujourd'hui. Ce dernier remplace l'ancien de la 1ere runtrack Python. A l'intérieur se trouvent tous les jobs du jour01 y compris le job bonus, tous ceux-ci étant rangés dans un dossier propre à chaque job.
